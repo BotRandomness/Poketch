@@ -1,0 +1,40 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://src/AppClock.gd" type="Script" id=1]
+[ext_resource path="res://assets/clock_app_face.png" type="Texture" id=2]
+[ext_resource path="res://assets/clock_app_numbers/0.png" type="Texture" id=3]
+[ext_resource path="res://assets/clock_app_numbers/dots.png" type="Texture" id=4]
+
+[node name="AppClock" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="ClockFace" type="Sprite" parent="."]
+position = Vector2( 112, 96 )
+texture = ExtResource( 2 )
+
+[node name="HourDigit1" type="Sprite" parent="."]
+position = Vector2( 40, 92 )
+texture = ExtResource( 3 )
+
+[node name="HourDigit2" type="Sprite" parent="."]
+position = Vector2( 80, 92 )
+texture = ExtResource( 3 )
+
+[node name="Divider" type="Sprite" parent="."]
+position = Vector2( 108, 92 )
+texture = ExtResource( 4 )
+
+[node name="MinuteDigit1" type="Sprite" parent="."]
+position = Vector2( 136, 92 )
+texture = ExtResource( 3 )
+
+[node name="MinuteDigit2" type="Sprite" parent="."]
+position = Vector2( 176, 92 )
+texture = ExtResource( 3 )
+
+[node name="LitUpButton" type="TextureButton" parent="."]
+margin_left = 17.0
+margin_top = 16.0
+margin_right = 208.0
+margin_bottom = 176.0
+action_mode = 0

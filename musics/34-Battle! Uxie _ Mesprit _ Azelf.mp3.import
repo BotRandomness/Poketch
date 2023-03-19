@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/34-Battle! Uxie _ Mesprit _ Azelf.mp3-d78c8f56edbf865ff16479f0158e9faa.mp3str"
+
+[deps]
+
+source_file="res://musics/34-Battle! Uxie _ Mesprit _ Azelf.mp3"
+dest_files=[ "res://.import/34-Battle! Uxie _ Mesprit _ Azelf.mp3-d78c8f56edbf865ff16479f0158e9faa.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

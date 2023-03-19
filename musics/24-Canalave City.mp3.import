@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/24-Canalave City.mp3-2ad77c1c7d0ef756070d2aa92d4bc840.mp3str"
+
+[deps]
+
+source_file="res://musics/24-Canalave City.mp3"
+dest_files=[ "res://.import/24-Canalave City.mp3-2ad77c1c7d0ef756070d2aa92d4bc840.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

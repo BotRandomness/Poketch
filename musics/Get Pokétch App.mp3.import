@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Get Pokétch App.mp3-e7cd18b146d51dae24d2f926c24a6ec8.mp3str"
+
+[deps]
+
+source_file="res://musics/Get Pokétch App.mp3"
+dest_files=[ "res://.import/Get Pokétch App.mp3-e7cd18b146d51dae24d2f926c24a6ec8.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

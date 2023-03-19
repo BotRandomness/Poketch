@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/14-Floaroma Town.mp3-dc853a1a58cf8e3017cc1467bb2ff3dd.mp3str"
+
+[deps]
+
+source_file="res://musics/14-Floaroma Town.mp3"
+dest_files=[ "res://.import/14-Floaroma Town.mp3-dc853a1a58cf8e3017cc1467bb2ff3dd.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

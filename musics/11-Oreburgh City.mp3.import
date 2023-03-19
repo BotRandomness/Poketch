@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/11-Oreburgh City.mp3-eb8450563fb427c0e388c90af7af9d40.mp3str"
+
+[deps]
+
+source_file="res://musics/11-Oreburgh City.mp3"
+dest_files=[ "res://.import/11-Oreburgh City.mp3-eb8450563fb427c0e388c90af7af9d40.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

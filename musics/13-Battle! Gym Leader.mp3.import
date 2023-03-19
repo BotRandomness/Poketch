@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/13-Battle! Gym Leader.mp3-6c2b3f0b30687fad40d9c2d4abf93e39.mp3str"
+
+[deps]
+
+source_file="res://musics/13-Battle! Gym Leader.mp3"
+dest_files=[ "res://.import/13-Battle! Gym Leader.mp3-6c2b3f0b30687fad40d9c2d4abf93e39.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

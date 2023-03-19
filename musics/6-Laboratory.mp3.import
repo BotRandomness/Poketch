@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/6-Laboratory.mp3-6c71793170a79ad2a208396ed0848e3b.mp3str"
+
+[deps]
+
+source_file="res://musics/6-Laboratory.mp3"
+dest_files=[ "res://.import/6-Laboratory.mp3-6c71793170a79ad2a208396ed0848e3b.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

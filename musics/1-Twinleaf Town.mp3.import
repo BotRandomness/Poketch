@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/1-Twinleaf Town.mp3-c93b93b3b046a4b14ffde4023bfc3b09.mp3str"
+
+[deps]
+
+source_file="res://musics/1-Twinleaf Town.mp3"
+dest_files=[ "res://.import/1-Twinleaf Town.mp3-c93b93b3b046a4b14ffde4023bfc3b09.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

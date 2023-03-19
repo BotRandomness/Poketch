@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/31-Fight Area.mp3-a4f234d6a28346fb2affb3b6c3029e60.mp3str"
+
+[deps]
+
+source_file="res://musics/31-Fight Area.mp3"
+dest_files=[ "res://.import/31-Fight Area.mp3-a4f234d6a28346fb2affb3b6c3029e60.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

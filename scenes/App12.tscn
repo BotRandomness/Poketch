@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://assets/poketch_dummy_app12.png" type="Texture" id=1]
+
+[node name="App12" type="Node2D"]
+z_index = 1
+
+[node name="PoketchDummyApp12" type="Sprite" parent="."]
+position = Vector2( 112, 96 )
+texture = ExtResource( 1 )

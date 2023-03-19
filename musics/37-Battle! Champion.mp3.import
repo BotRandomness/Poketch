@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/37-Battle! Champion.mp3-f7bf72ba19783a72236aa5deecd74275.mp3str"
+
+[deps]
+
+source_file="res://musics/37-Battle! Champion.mp3"
+dest_files=[ "res://.import/37-Battle! Champion.mp3-f7bf72ba19783a72236aa5deecd74275.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

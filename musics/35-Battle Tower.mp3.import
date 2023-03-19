@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/35-Battle Tower.mp3-d3a7ad44b16377a8e811da22bb29cf3a.mp3str"
+
+[deps]
+
+source_file="res://musics/35-Battle Tower.mp3"
+dest_files=[ "res://.import/35-Battle Tower.mp3-d3a7ad44b16377a8e811da22bb29cf3a.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

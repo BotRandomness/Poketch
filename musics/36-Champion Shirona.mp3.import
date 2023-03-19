@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/36-Champion Shirona.mp3-e6853df0af128c57ce8ffa0098b6f0b3.mp3str"
+
+[deps]
+
+source_file="res://musics/36-Champion Shirona.mp3"
+dest_files=[ "res://.import/36-Champion Shirona.mp3-e6853df0af128c57ce8ffa0098b6f0b3.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

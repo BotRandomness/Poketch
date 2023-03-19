@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/22-Veilstone City.mp3-26801b8d22ca4f27cbaf365a813ea65f.mp3str"
+
+[deps]
+
+source_file="res://musics/22-Veilstone City.mp3"
+dest_files=[ "res://.import/22-Veilstone City.mp3-26801b8d22ca4f27cbaf365a813ea65f.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

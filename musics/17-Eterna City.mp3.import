@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/17-Eterna City.mp3-907a0a92321997e9f530b630027acfe7.mp3str"
+
+[deps]
+
+source_file="res://musics/17-Eterna City.mp3"
+dest_files=[ "res://.import/17-Eterna City.mp3-907a0a92321997e9f530b630027acfe7.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

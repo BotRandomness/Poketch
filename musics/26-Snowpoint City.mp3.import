@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/26-Snowpoint City.mp3-d362f4215979d6765c77cf6d9d0e44b8.mp3str"
+
+[deps]
+
+source_file="res://musics/26-Snowpoint City.mp3"
+dest_files=[ "res://.import/26-Snowpoint City.mp3-d362f4215979d6765c77cf6d9d0e44b8.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

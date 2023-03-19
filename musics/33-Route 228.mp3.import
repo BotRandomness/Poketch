@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/33-Route 228.mp3-81d93bfec59b6342660725dc5d8d3cb7.mp3str"
+
+[deps]
+
+source_file="res://musics/33-Route 228.mp3"
+dest_files=[ "res://.import/33-Route 228.mp3-81d93bfec59b6342660725dc5d8d3cb7.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

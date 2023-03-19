@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/19-Hearthome City.mp3-93e91b280eb0003bd2459fb1d7869230.mp3str"
+
+[deps]
+
+source_file="res://musics/19-Hearthome City.mp3"
+dest_files=[ "res://.import/19-Hearthome City.mp3-93e91b280eb0003bd2459fb1d7869230.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

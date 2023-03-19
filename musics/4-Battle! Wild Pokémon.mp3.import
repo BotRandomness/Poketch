@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/4-Battle! Wild Pokémon.mp3-3179ef68a7b6b9e758325fa14a15b333.mp3str"
+
+[deps]
+
+source_file="res://musics/4-Battle! Wild Pokémon.mp3"
+dest_files=[ "res://.import/4-Battle! Wild Pokémon.mp3-3179ef68a7b6b9e758325fa14a15b333.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

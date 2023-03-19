@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/21-Route 210.mp3-3e0a887250eece00f068d7894b9e5378.mp3str"
+
+[deps]
+
+source_file="res://musics/21-Route 210.mp3"
+dest_files=[ "res://.import/21-Route 210.mp3-3e0a887250eece00f068d7894b9e5378.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

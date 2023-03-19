@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/38-Battle! Giratina.mp3-f867e5972e848899cf563000189866d8.mp3str"
+
+[deps]
+
+source_file="res://musics/38-Battle! Giratina.mp3"
+dest_files=[ "res://.import/38-Battle! Giratina.mp3-f867e5972e848899cf563000189866d8.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/29-Sunyshore City.mp3-ac25683441aedea6dd4c2e5487c5103c.mp3str"
+
+[deps]
+
+source_file="res://musics/29-Sunyshore City.mp3"
+dest_files=[ "res://.import/29-Sunyshore City.mp3-ac25683441aedea6dd4c2e5487c5103c.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/18-Route 206.mp3-64b9d3ce2b4a0191585f2e144519f774.mp3str"
+
+[deps]
+
+source_file="res://musics/18-Route 206.mp3"
+dest_files=[ "res://.import/18-Route 206.mp3-64b9d3ce2b4a0191585f2e144519f774.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

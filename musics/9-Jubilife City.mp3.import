@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/9-Jubilife City.mp3-06ca411400927ca6a169cf26d2e96fad.mp3str"
+
+[deps]
+
+source_file="res://musics/9-Jubilife City.mp3"
+dest_files=[ "res://.import/9-Jubilife City.mp3-06ca411400927ca6a169cf26d2e96fad.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

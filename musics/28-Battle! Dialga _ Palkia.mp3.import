@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/28-Battle! Dialga _ Palkia.mp3-511ccdca6b47edcada8944e33fc587ac.mp3str"
+
+[deps]
+
+source_file="res://musics/28-Battle! Dialga _ Palkia.mp3"
+dest_files=[ "res://.import/28-Battle! Dialga _ Palkia.mp3-511ccdca6b47edcada8944e33fc587ac.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

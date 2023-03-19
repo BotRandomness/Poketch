@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/poketch_button_beep.mp3-1728f18060dba2cfb42a206b2e09172c.mp3str"
+
+[deps]
+
+source_file="res://sounds/poketch_button_beep.mp3"
+dest_files=[ "res://.import/poketch_button_beep.mp3-1728f18060dba2cfb42a206b2e09172c.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

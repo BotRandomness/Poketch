@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/3-Lake.mp3-c4ebf0294d64770f04b55f39cc65ea41.mp3str"
+
+[deps]
+
+source_file="res://musics/3-Lake.mp3"
+dest_files=[ "res://.import/3-Lake.mp3-c4ebf0294d64770f04b55f39cc65ea41.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/7-Pokémon Center.mp3-cd59a673635c0b857dae24e8b73d1a0d.mp3str"
+
+[deps]
+
+source_file="res://musics/7-Pokémon Center.mp3"
+dest_files=[ "res://.import/7-Pokémon Center.mp3-cd59a673635c0b857dae24e8b73d1a0d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

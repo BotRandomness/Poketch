@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/23-Valor Lakefront.mp3-6873c62112894a4853fc397a5a0389f0.mp3str"
+
+[deps]
+
+source_file="res://musics/23-Valor Lakefront.mp3"
+dest_files=[ "res://.import/23-Valor Lakefront.mp3-6873c62112894a4853fc397a5a0389f0.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

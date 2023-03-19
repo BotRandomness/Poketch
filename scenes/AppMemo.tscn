@@ -1,0 +1,46 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://src/AppMemo.gd" type="Script" id=1]
+[ext_resource path="res://assets/memo_app_buttons/pen_button_pressed.png" type="Texture" id=2]
+[ext_resource path="res://assets/memo_app_face.png" type="Texture" id=3]
+[ext_resource path="res://assets/memo_app_buttons/eraser_button.png" type="Texture" id=4]
+[ext_resource path="res://assets/memo_app_buttons/eraser_button_pressed.png" type="Texture" id=5]
+[ext_resource path="res://assets/memo_app_buttons/pen_button.png" type="Texture" id=6]
+[ext_resource path="res://sounds/poketch_button_small_beep.mp3" type="AudioStream" id=7]
+
+[node name="AppMemo" type="Node2D"]
+z_index = 2
+script = ExtResource( 1 )
+
+[node name="MemoFace" type="Sprite" parent="."]
+position = Vector2( 112, 96 )
+z_index = -1
+texture = ExtResource( 3 )
+
+[node name="Buttons" type="Node2D" parent="."]
+z_index = -1
+
+[node name="PenButton" type="TextureButton" parent="Buttons"]
+margin_left = 176.0
+margin_top = 98.0
+margin_right = 206.0
+margin_bottom = 174.0
+toggle_mode = true
+pressed = true
+texture_normal = ExtResource( 6 )
+texture_pressed = ExtResource( 2 )
+
+[node name="EraserButton" type="TextureButton" parent="Buttons"]
+margin_left = 176.0
+margin_top = 18.0
+margin_right = 206.0
+margin_bottom = 94.0
+toggle_mode = true
+texture_normal = ExtResource( 4 )
+texture_pressed = ExtResource( 5 )
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 7 )
+
+[connection signal="toggled" from="Buttons/PenButton" to="." method="_on_PenButton_toggled"]
+[connection signal="toggled" from="Buttons/EraserButton" to="." method="_on_EraserButton_toggled"]
