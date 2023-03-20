@@ -30,7 +30,7 @@ This is open-source, so you are free to contribute to this project :) <br />
 Want your very own Poketch? You will be up and running in a minute!
 
 ### Download
-1. Download the Zip file for your version of operating system
+1. Download the Zip file [here](https://github.com/BotRandomness/Poketch/releases), for your version of operating system
 2. Extract the zip file at your desire location
 3. Open the `Pokétch` Application, the application is just a single file, no installation, it just opens up!
 
